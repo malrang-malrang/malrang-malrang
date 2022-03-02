@@ -4,7 +4,7 @@
   
   ### ➕ malrang ➕
   
-  [![malrang GitHub stats](https://github-readme-stats.vercel.app/apikinggoguma)](https://github.com/anuraghazra/github-readme-stats)
+  [![malrang GitHub stats](https://github-readme-stats.vercel.app/apikinggoguma)](https://github.com/kinggoguma/github-readme-stats)
   
   
   ---
