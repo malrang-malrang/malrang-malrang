@@ -1,7 +1,7 @@
-<img src="https://komarev.com/ghpvc/?username=kinggoguma&amp;&amp;style=flat-square" align="right">
+<img src="https://komarev.com/ghpvc/?username=malrang-malrang&amp;&amp;style=flat-square" align="right">
 <div align="center">
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=kinggoguma&show_icons=true&theme=dracula&hide="/>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=malrang-malrang&show_icons=true&theme=dracula&hide="/>
   
 ## Hi There 👋
 
@@ -20,7 +20,7 @@ Thank you for visiting my github. <br>
  
 ---
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinggoguma&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malrang-malrang&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
  
 ## Skills & Tools
 <div align="left">
