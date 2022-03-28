@@ -13,7 +13,6 @@ Thank you for visiting my github. <br>
   
 - Yagom Academy iOS Career Stater Camp 5rd
 - E-mail: [ruehd7924@gmail.com](ruehd7924@gmail.com)
-- Blog: [https://marlangmarlang.tistory.com](https://marlangmarlang.tistory.com)
  <br>
  
 </div>
