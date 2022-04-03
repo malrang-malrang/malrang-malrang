@@ -13,6 +13,7 @@ Thank you for visiting my github. <br>
   
 - Yagom Academy iOS Career Stater Camp 5rd
 - E-mail: [ruehd7924@gmail.com](ruehd7924@gmail.com)
+- Velog: [https://velog.io/@malrang-malrang](https://velog.io/@malrang-malrang)
  <br>
  
 </div>
